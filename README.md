@@ -13,8 +13,14 @@ https://github.com/ismarapw/zoom-effect-tracking/assets/76652264/1418a66c-c4ab-4
 
 # Features
 1. Draw Bounding Box to Track an object
-2. Video Server Side Rendering (because i'm not using OpenCV.js, the file bundle/CDN is to big for the client side)
-3. Download rendered video
+2. Implements TrackerCSRT (built in openCV tracker method)
+3. Video Server Side Rendering (because i'm not using OpenCV.js, the file bundle/CDN is to big for the client side)
+4. Download rendered video
+
+# Current Limitation
+1. Video file must contain an object in the first frame, because the video trim or cut is not implemented yet.
+2. The final output resoultion is limited to 480x640
+3. Only the video will be rendered, which means the audio is not included. 
 
 # Test in Your Machine
 You can use this repository by clone it and make sure you have installed python (3.11). Don't forget to make your python environment and install all the requirements.txt.
