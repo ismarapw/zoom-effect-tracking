@@ -1,2 +1,4 @@
 __pycache__/
 env
+app/vid_processor/input/*.mp4
+app/vid_processor/output/*.mp4
