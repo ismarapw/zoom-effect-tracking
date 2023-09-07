@@ -3,7 +3,7 @@ Zoom effect tracking is one of the most popular video effect used in video editi
 
 Although We know that many video effects or processing are usually done by using high-level interaction made by various application such as adobe After Effects, CapCut, VN and the other famous video editing app. But, here, my focus was to try to implement the behind the scene of certain types of video effect or processing.
 
-![ezgif-2-251ecaf023](https://github.com/ismarapw/zoom-effect-tracking/assets/76652264/f4010c34-ea44-4e5a-9329-22f151a66030)
+<img src = "https://github.com/ismarapw/zoom-effect-tracking/assets/76652264/f4010c34-ea44-4e5a-9329-22f151a66030" width = "100%"/>
 
 # Detailed Tech-Stack
 1. Flask
